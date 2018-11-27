@@ -10,12 +10,16 @@ body {
 	font-family: 'Times New Roman', serif; 
 }
 
-.wrapper {https://learn.co/tracks/skills-front-end-web-development/day-5-layout-and-the-box-model/page-layout/zetsy#
+.wrapper {
 	width: 960px;
 	height: 100%;
 	margin: 0 auto;
 	background: #fff;
 	padding: 20px 45px 20px;
+}
+
+h1 {
+  
 }
 
 /* Write all remaining styles here */
